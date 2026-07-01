@@ -1,0 +1,28 @@
+{
+  "_fv": 79,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "Items.STICK"
+    },
+    "showParticles": true,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "igniteFire": false,
+    "disableGravity": false,
+    "power": 10.1,
+    "damage": 7.0,
+    "knockback": 5,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "modelWidth": 0.5,
+    "modelHeight": 0.5,
+    "onHitsPlayer": {
+      "name": "MusketBulletHitsPlayer"
+    },
+    "onHitsEntity": {
+      "name": "MusketBulletHitsPlayer"
+    }
+  }
+}

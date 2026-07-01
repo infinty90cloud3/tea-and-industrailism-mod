@@ -1,0 +1,9 @@
+{
+  "_fv": 79,
+  "_type": "function",
+  "definition": {
+    "code": "/effect @p glowing 10",
+    "name": "teasouls",
+    "namespace": "mod"
+  }
+}

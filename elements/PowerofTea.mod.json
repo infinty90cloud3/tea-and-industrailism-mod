@@ -1,0 +1,140 @@
+{
+  "_fv": 79,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Power of Tea",
+    "supportedSlots": "mainhand",
+    "weight": 10,
+    "anvilCost": 1,
+    "maxLevel": 10,
+    "damageModifier": 5,
+    "incompatibleEnchantments": [
+      {
+        "value": "AQUA_AFFINITY"
+      },
+      {
+        "value": "BANE_OF_ARTHROPODS"
+      },
+      {
+        "value": "BINDING_CURSE"
+      },
+      {
+        "value": "BLAST_PROTECTION"
+      },
+      {
+        "value": "BREACH"
+      },
+      {
+        "value": "CHANNELING"
+      },
+      {
+        "value": "DENSITY"
+      },
+      {
+        "value": "DEPTH_STRIDER"
+      },
+      {
+        "value": "EFFICIENCY"
+      },
+      {
+        "value": "FEATHER_FALLING"
+      },
+      {
+        "value": "FIRE_ASPECT"
+      },
+      {
+        "value": "FLAME"
+      },
+      {
+        "value": "FORTUNE"
+      },
+      {
+        "value": "FROST_WALKER"
+      },
+      {
+        "value": "INFINITY"
+      },
+      {
+        "value": "KNOCKBACK"
+      },
+      {
+        "value": "LOOTING"
+      },
+      {
+        "value": "LOYALTY"
+      },
+      {
+        "value": "LUCK_OF_THE_SEA"
+      },
+      {
+        "value": "LURE"
+      },
+      {
+        "value": "MENDING"
+      },
+      {
+        "value": "MULTISHOT"
+      },
+      {
+        "value": "PIERCING"
+      },
+      {
+        "value": "POWER"
+      },
+      {
+        "value": "PROJECTILE_PROTECTION"
+      },
+      {
+        "value": "PUNCH"
+      },
+      {
+        "value": "QUICK_CHARGE"
+      },
+      {
+        "value": "RESPIRATION"
+      },
+      {
+        "value": "RIPTIDE"
+      },
+      {
+        "value": "SHARPNESS"
+      },
+      {
+        "value": "SILK_TOUCH"
+      },
+      {
+        "value": "SMITE"
+      },
+      {
+        "value": "SOUL_SPEED"
+      },
+      {
+        "value": "SWEEPING"
+      },
+      {
+        "value": "SWIFT_SNEAK"
+      },
+      {
+        "value": "THORNS"
+      },
+      {
+        "value": "UNBREAKING"
+      },
+      {
+        "value": "VANISHING_CURSE"
+      },
+      {
+        "value": "WIND_BURST"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "TAG:enchantable/weapon"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": false,
+    "canVillagerTrade": true
+  }
+}

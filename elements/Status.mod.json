@@ -1,0 +1,14 @@
+{
+  "_fv": 79,
+  "_type": "attribute",
+  "definition": {
+    "name": "Status",
+    "minValue": 1.0,
+    "maxValue": 11.0,
+    "defaultValue": 1.0,
+    "sentiment": "NEUTRAL",
+    "addToAllEntities": false,
+    "addToPlayers": true,
+    "entities": []
+  }
+}
